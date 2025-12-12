@@ -1,5 +1,5 @@
 class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Lucas is a buttcheek waterbender");
+    System.out.println("Lucas is a g waterbender");
   }
 }
